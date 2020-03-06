@@ -30,7 +30,7 @@ class Pergunta {
 		return $this->description;
 	}
 
-	public function setPontuacao($pontuacao) {
+	public function setPontuacao(Pontuacao $pontuacao) {
 
 		$this->pontuacao = $pontuacao;
 	}
