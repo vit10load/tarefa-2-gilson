@@ -189,7 +189,7 @@
 
 				}elseif (isset($_POST['nao']) and $_POST['nao'] == 'NAO' and $id_pergunta == 4) {
 			?>
-			4° Imitar um urubu na carniça.
+			4° Imitar um urubu.
 
 			<?php 
 
